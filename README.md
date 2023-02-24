@@ -1,4 +1,4 @@
-# My background in brief:
+## My background in brief:
 
 * 2006 started working in [INEOS RAS](https://ineos.ac.ru/contacts)
 * 2008 diploma of an engineer
