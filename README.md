@@ -1,4 +1,4 @@
-
+# Marina Zharinova
 ## My background in brief:
 
 * 2006 started working in [INEOS RAS](https://ineos.ac.ru/contacts)
@@ -8,11 +8,9 @@
 * 2019-2021 worked as a freelancer copywriter
 * 2021-now has been studying Android development at [Netology](https://netology.ru/programs/android-app)
 
-While studying I did some projects.
+While studying I did some projects. Android skills practiced in them: Room, Retrofit, Okhttp, Glide, Paging 3, Coroutines, JUnit.
 
-Android skills practiced in them: Room, Retrofit, Okhttp, Glide, Paging 3, Coroutines, JUnit.
-
-Here is some of them:
+Here are some of them:
 * Kotlin
 
 [Social network with notifications](https://github.com/Marijarin/AND-33-homeworks/tree/post-nots)
