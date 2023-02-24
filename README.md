@@ -8,7 +8,9 @@
 * 2021-now has been studying Android development at [Netology](https://netology.ru/programs/android-app)
 
 While studying I did some projects.
-Android skills practiced in them: Room, Retrofit, Okhttp, Glide, Paging 3, Coroutines, JUnit 
+
+Android skills practiced in them: Room, Retrofit, Okhttp, Glide, Paging 3, Coroutines, JUnit.
+
 Here is some of them:
 * Kotlin
 
