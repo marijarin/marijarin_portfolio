@@ -1,5 +1,5 @@
 # My background in brief:
-*[foo*](url)
+
 * 2006 started working in *[INEOS RAS*](https://ineos.ac.ru/contacts)
 * 2008 diploma of an engineer
 * 2017 PHD in polymer science
