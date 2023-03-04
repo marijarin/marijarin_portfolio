@@ -19,6 +19,8 @@ Here are some of them:
 
 [Animation](https://github.com/Marijarin/animation)
 
+[App for marking places based on Yandex MapKit](https://github.com/Marijarin/yamap)
+
 [Social network with separators](https://github.com/Marijarin/andin-homeworks/tree/separators)
 
 [Social network with authentication](https://github.com/Marijarin/andin-homeworks/tree/auth2)
