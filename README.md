@@ -3,12 +3,12 @@
 
 * 2006 started working in [INEOS RAS](https://ineos.ac.ru/contacts)
 * 2008 diploma of an engineer
-* 2017 PHD in polymer science
+* 2017 PHD in polymer science [my diss](https://ineos.ac.ru/files/scisecr/zharinova/diss.pdf)
 * 2017-2020 worked as a lead specialist for an oil company and then as a univesity teacher of Technical English at [USPTU](https://rusoil.net/ru?ysclid=leihgz8m2u673683214)
 * 2019-2021 worked as a freelancer copywriter
 * 2021-now has been studying Android development at [Netology](https://netology.ru/programs/android-app)
 
-While studying I did some projects. Android skills practiced in them: Room, Retrofit, Okhttp, Glide, Paging 3, Coroutines, JUnit.
+While studying I did some projects. Android skills practiced in them: Room, Retrofit, OkHttp, Glide, Paging 3, Coroutines, JUnit, Hilt, Yandex MapKit.
 
 Here are some of them:
 * Kotlin
@@ -27,4 +27,5 @@ Here are some of them:
 
 
 * Java
+
 [Converter for images to text graphics](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
