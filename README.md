@@ -8,5 +8,3 @@
 * 2020-2021 worked as a freelancer copywriter for Infaprim, wrote texts for parents about up-to-date childcare
 * 2022-2023 studied Android development
 * 2023-2024 took part in Android sports school app project, studied Java at Tinkoff
-
-[Converter for images to text graphics](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
